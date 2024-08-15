@@ -1,0 +1,69 @@
+{
+  "user": [
+    {
+      "email": "ana.costa@exampleteste.com",
+      "name": "Ana Costa",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "email": "beatriz.lima@example.com",
+      "id": "3",
+      "name": "Beatriz Lima",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": "4",
+      "email": "laura.fernandes@example.com",
+      "name": "Laura Fernandes",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": "5",
+      "email": "juliana.pereira@example.com",
+      "name": "Juliana Pereira",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": 7,
+      "email": "ana.costa2@example.com",
+      "name": "Ana Costa 2",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": 8,
+      "email": "ana.costa2@example.com",
+      "name": "Ana Costa 2",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": 9,
+      "email": "ana.costa2@example.com",
+      "name": "Ana Costa 2",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": 10,
+      "email": "ana.costa2@example.com",
+      "name": "Ana Costa 2",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": 11,
+      "email": "ana.costa2@example.com",
+      "name": "Ana Costa 2",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": 12,
+      "email": "ana.costa2@example.com",
+      "name": "Ana Costa 2",
+      "password": "$2a$12$gBneCTWNJ8Mqjr/zZaLBSeHQ.mWZvhXlMARaKBwl/0x9Uv8AOOJYG"
+    },
+    {
+      "id": 13,
+      "email": "ritaas@example.com",
+      "name": "Rita As",
+      "password": "$2b$10$mwlZewP67iR6pDwgJUFOE.D/3o3Ou.La1TRKEySW29nJHjrMBbl9S"
+    }
+  ]
+}
